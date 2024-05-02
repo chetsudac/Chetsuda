@@ -1,0 +1,35 @@
+html, body {
+  background-color: #DCD7CE;
+  color: black;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  font-size: 40px;
+}
+
+main {
+width: 100vw;
+overflow: hidden;
+}
+
+.tabs-container {
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  width: 100vw;
+}
+
+.tabs {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+img {
+ width: 40vw;
+ justify-content: right;
+}
+
+.contact {
+  
+}

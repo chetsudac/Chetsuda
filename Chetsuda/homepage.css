@@ -1,0 +1,30 @@
+html {
+    margin: 0;
+    background: #B61E1E;
+    color: #EA658D;
+    font-family: 'Spline Sans', sans-serif;
+    text-align: center;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.flex-container-tabs {
+    filter: blur(2.5px);
+    padding-top: 10rem;
+    padding-right: 10rem;
+    padding-left: 10rem;
+    display:inline-block;
+}
+
+.flex-container-title {
+    padding: 5rem;
+    filter: blur(2.5px);
+}

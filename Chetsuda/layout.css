@@ -1,0 +1,9 @@
+html {
+    margin: 0;
+    background: #B61E1E;
+    color: #EA658D;
+    font-size: 90px;
+    font-family: 'Spline Sans', sans-serif;
+    text-align: center;
+    filter: blur(2.5px);
+}
