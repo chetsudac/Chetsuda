@@ -23,7 +23,8 @@ html, body {
     margin-top: 4vh;
     position: relative;
     justify-content: space-between;
-    font-size: 180px;
+    font-size: 220px;
+    text-align: center;
     text-transform: uppercase;
   }
   
