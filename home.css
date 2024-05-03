@@ -23,13 +23,13 @@ html, body {
     margin-top: 4vh;
     position: relative;
     justify-content: space-between;
-    font-size: 150px;
+    font-size: 180px;
     text-transform: uppercase;
   }
   
   .name {
-    max-height: 300px;
-    line-height: 150px;
+    max-height: 360px;
+    line-height: 180px;
   }
 
   .tabs-container {
@@ -76,7 +76,7 @@ html, body {
     margin-left: 2.5vw;
     position: relative;
     font-size: 50px;
-    padding-top: 250px;
+    padding-top: 50vh;
   }
 
   .bio {
