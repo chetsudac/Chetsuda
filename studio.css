@@ -79,12 +79,12 @@ html, body {
 
    .work-container {
     display: flex;
+    flex-wrap: wrap;
     width: 100vw;
     padding-left: 2.5vw;
     position: relative;
     font-size: 50px;
     padding-top: 310px;
-    justify-content: space-evenly;
   }
 
   .urls {
