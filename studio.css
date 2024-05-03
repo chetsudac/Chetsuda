@@ -78,13 +78,13 @@ html, body {
    }
 
    .work-container {
-    display: inline-flex;
-    flex-wrap: wrap;
+    display: flex;
     width: 95vw;
     margin-left: 2.5vw;
     position: relative;
     font-size: 50px;
-    padding-top: 250px;
+    padding-top: 310px;
+    justify-content: space-between;
   }
 
   .urls {

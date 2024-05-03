@@ -78,7 +78,7 @@ html, body {
   }
 
   .work-container {
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
     width: 95vw;
     margin-left: 2.5vw;
