@@ -19,17 +19,17 @@ html, body {
     display:flex;
     flex-wrap: wrap;
     width: 100vw;
-    margin-top: 4vh;
+    margin-top: 2vh;
     position: relative;
     justify-content: space-between;
-    font-size: 220px;
+    font-size: 200px;
     text-align: center;
     text-transform: uppercase;
   }
   
   .name {
-    max-height: 360px;
-    line-height: 180px;
+    max-height: 320px;
+    line-height: 160px;
   }
 
   .tabs-container {
