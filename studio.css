@@ -84,7 +84,7 @@ html, body {
     position: relative;
     font-size: 50px;
     padding-top: 310px;
-    justify-content: space-between;
+    justify-content: space-evenly;
   }
 
   .urls {
