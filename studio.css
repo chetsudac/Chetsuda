@@ -18,8 +18,8 @@ html, body {
   .top-container {
     display:flex;
     flex-wrap: wrap;
-    width: 95vw;
-    margin-left: 2.5vw;
+    width: 100vw;
+    padding-left: 2.5vw;
     margin-top: 4vh;
     position: relative;
     justify-content: space-between;
@@ -35,8 +35,8 @@ html, body {
   .tabs-container {
     display: flex;
     flex-wrap: wrap;
-    width: 95vw;
-    margin-left: 2.5vw;
+    width: 100vw;
+    padding-left: 2.5vw;
     position: relative;
     justify-content: space-between;
     font-size: 50px;
@@ -79,8 +79,8 @@ html, body {
 
    .work-container {
     display: flex;
-    width: 95vw;
-    margin-left: 2.5vw;
+    width: 100vw;
+    padding-left: 2.5vw;
     position: relative;
     font-size: 50px;
     padding-top: 310px;
