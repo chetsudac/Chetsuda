@@ -80,7 +80,7 @@ html, body {
    font-style: normal;
   }
 
-  .work-container {
+   .work-container {
     display: inline-flex;
     flex-wrap: wrap;
     width: 100vw;
@@ -94,6 +94,8 @@ html, body {
   .urls {
     max-height: 180px;
     line-height: 60px;
+    width: 33.33%;
+    text-align: center;
   }
 
 

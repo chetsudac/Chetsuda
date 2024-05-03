@@ -85,6 +85,8 @@ html, body {
   .bio {
     max-height: 180px;
     line-height: 60px;
+    width: 100%;
+    text-align: center;
   }
 
 
