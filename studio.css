@@ -60,7 +60,6 @@ html, body {
   }
 
   a:visited {
-    text-decoration: none;
     color: seagreen;
   }
 
@@ -69,7 +68,16 @@ html, body {
     color: darkgreen;
   }
 
-  .bio-container {
+  #stu {
+    font-style: italic;
+    color: darkgreen;
+  }
+
+  #title:hover {
+    font-style: normal;
+   }
+
+   .work-container {
     display: inline-flex;
     flex-wrap: wrap;
     width: 95vw;
@@ -79,11 +87,7 @@ html, body {
     padding-top: 250px;
   }
 
-  .bio {
+  .urls {
     max-height: 180px;
     line-height: 60px;
   }
-
-
-  
-
