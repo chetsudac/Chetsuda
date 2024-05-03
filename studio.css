@@ -19,7 +19,6 @@ html, body {
     display:flex;
     flex-wrap: wrap;
     width: 100vw;
-    padding-left: 2.5vw;
     margin-top: 4vh;
     position: relative;
     justify-content: space-between;
@@ -37,12 +36,11 @@ html, body {
     display: flex;
     flex-wrap: wrap;
     width: 100vw;
-    padding-left: 2.5vw;
     position: relative;
     justify-content: space-between;
     font-size: 50px;
     text-transform: uppercase;
-
+    align-items: center;
   }
 
   .tabs {
@@ -82,7 +80,6 @@ html, body {
     display: flex;
     flex-wrap: wrap;
     width: 100vw;
-    padding-left: 2.5vw;
     position: relative;
     font-size: 50px;
     padding-top: 310px;
